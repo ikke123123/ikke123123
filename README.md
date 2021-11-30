@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am Thomas Brouwer, programmer, game designer, and founder of Fifth Quarter Studios.
+
+I'm currently working on a number of projects:
+- 🏢 Voxel City: A platform for a voxel-based city where users can live and manage their own plots. 
+- 🤺 'Zes': A couch-PvP/party game that is set in an ever-shrinking hexagonal arena.
+- 🏎️ 'Zamona': A game where players can race on a self-made track, just like those old Carrera racetrack toys.
+- 🚇 The Hyperloop Experience: A group-project, commisioned by a client, which displays the workings of a Hyperloop in VR.
+- ...
+- More to come!
+
+If you have any ideas, or want to chat for any reason, hit me up on Discord: Ikke#6585. Or join the Fifth Quarter's Discord: https://discord.gg/unPAfxuaEY.
 
 <!--
 **ikke123123/ikke123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
