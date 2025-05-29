@@ -9,8 +9,6 @@ I'm currently working on a number of projects:
 - ...
 - More to come!
 
-If you have any ideas, or want to chat for any reason, hit me up on Discord: Ikke#6585. Or join the Fifth Quarter's Discord: https://discord.gg/unPAfxuaEY.
-
 <!--
 **ikke123123/ikke123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
